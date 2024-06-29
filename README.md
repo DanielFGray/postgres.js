@@ -17,7 +17,7 @@
 
 ### Installation
 ```bash
-$ npm install postgres
+$ npm install postgres@github:DanielFGray/postgres.js
 ```
 
 ### Usage
